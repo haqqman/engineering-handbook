@@ -17,3 +17,7 @@ To achieve excellence, we must focus on strengthening our software development c
 3. **Streamlining Project Delivery:** Creating and maintaining reusable APIs and project templates to accelerate timelines while maintaining quality.
 
 By adhering to the principles in this handbook, we aim to transform software development into a strategic advantage for Haqqman and beyond, empowering developers, agencies, and freelancers across the community.
+
+---
+
+[← Previous: Get Started](./README.md) | [Next: Perils of Ignoring](./software-or-nowhere.md)

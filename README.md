@@ -9,9 +9,9 @@ This handbook includes benchmarks, organizational design strategies, and develop
 We extend our gratitude to everyone who contributes to this document and encourage continuous feedback to improve software development practices for everyone.
 
 ### Maintained by
-- **Abdulhaqq Sule**: CTO of Haqqman
-- **Joshua Ajogbor**: Frontend Developer at Haqqman
-- **Abubakar Usman**: Backend Developer at Haqqman
+- [**Abdulhaqq Sule**](https://linkpane.com/suleinsights): CTO of Haqqman
+- [**Joshua Ajorgbor**](https://linkpane.com/jajorgbor): Frontend Developer at Haqqman
+- [**Abubakar Usman**](https://linkpane.com/namikazedev): Backend Developer at Haqqman
 
 ---
 

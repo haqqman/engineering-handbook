@@ -41,6 +41,31 @@ Refactoring keeps your codebase clean and efficient by eliminating redundancy an
 
 ---
 
+## Ensuring Compliance with Standards
+
+### AI-Generated Code Review
+To ensure that AI-generated code complies with established coding standards and best practices:
+
+- **Run Automated Checks:** Use linters like ESLint or Prettier to enforce coding standards.
+- **Perform Manual Reviews:** Verify code output for logical correctness and alignment with project guidelines.
+- **Test Outputs Thoroughly:** Validate AI-generated code through rigorous testing to ensure functionality.
+
+---
+
+## Managing Comments and Dead Code
+
+### Stripping Irrelevant Comments
+Comments should provide value, offering insights or clarifications that improve understanding. Remove any irrelevant or redundant comments, as they clutter the codebase and reduce readability.
+
+### Handling Obsolete Code
+To keep the codebase clean and maintainable:
+
+- **Identify Dead Code:** Use tools to detect unused or obsolete code segments.
+- **Remove Immediately:** Eliminate code that is no longer relevant to prevent confusion.
+- **Archive Strategically:** Stash dead code in a dedicated folder or file for reference if needed in the future.
+
+---
+
 ## Metrics for Measuring Code Quality
 
 You can’t improve what you can’t measure. These metrics help ensure your code meets high-quality standards:
